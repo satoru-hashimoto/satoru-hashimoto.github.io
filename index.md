@@ -11,6 +11,23 @@ NPO、協同組合、社会的企業といった公共的な役割を担う市�
 - [researchmap](https://researchmap.jp/read0069764)
 - [Zenodo（研究成果PDF・DOI付）](https://zenodo.org/search?q=satoru%20hashimoto)
 
+## 研究分野・キーワード（タグ）
+
+- 非営利組織（NPO）
+- 社会的企業
+- 協同組合
+- 福祉経営
+- 市民活動
+
+## Research Areas / Keywords
+
+- Nonprofit Organizations (NPO)
+- Social Enterprise
+- Cooperative Management
+- Community-based Welfare
+- Civil Society and Publicness
+
+
 ---
 
 ※ 本サイトはコメント機能を持ちません。情報提供を目的としています。
