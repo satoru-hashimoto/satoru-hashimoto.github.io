@@ -3,6 +3,7 @@
 橋本 理（Satoru Hashimoto）
 
 非営利組織（NPO）、社会的企業、協同組合の経営を福祉・地域支援の視点から研究しています。
+
 I study the management of nonprofit organizations (NPOs), social enterprises, and cooperatives from the perspective of welfare and community support.
 
 ## 閲覧用リンク
