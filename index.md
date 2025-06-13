@@ -33,3 +33,8 @@ I study the management of nonprofit organizations (NPOs), social enterprises, an
 ---
 
 ※ 本サイトはコメント機能を持ちません。情報提供を目的としています。
+
+<p>最終更新日: 2025年6月13日</p>
+<p><em>※掲載情報は随時更新しております。</em></p>
+<p>Last Updated: June 13, 2025</p>
+<p><em>※Information is updated periodically.</em></p>
